@@ -1,0 +1,16 @@
+--- 联合系统评估结果 ---
+分类器 (resnet20) 准确率: 65.11%
+  - 定义: 此准确率衡量分类器是否成功将图像（任务）分配给负责其真实类别所属范围的学生模型组（子模型）。
+使用学生模型 (resnet20) 决策的比例: 75.87%
+当使用学生模型决策时的准确率: 79.06%
+当使用教师模型决策时的准确率 (因学生预测越界): 52.22%
+联合模型整体准确率: 72.58%
+每张图像的平均处理时间: 0.001240 秒
+
+--- 配置信息 ---
+总类别数: 100, 组数: 10, 每组理论类别数: 10
+分类器模型类型: resnet20, 路径: save/classifier_models/classifier_resnet20_cifar100_lr_0.05_decay_0.0005_trial_1/resnet20_best.pth
+学生模型类型: resnet20, 基础路径: save/student_model/S_resnet20_T_resnet56_cifar100_kd_r_1.0_a_0.9_FixedT_4.0_trial_0.95,1,5,10,20_model_
+教师模型类型: resnet56, 路径: save/models/resnet56_vanilla/ckpt_epoch_240.pth
+测试数据批次大小: 256, 工作进程数: 4
+运行设备: cuda

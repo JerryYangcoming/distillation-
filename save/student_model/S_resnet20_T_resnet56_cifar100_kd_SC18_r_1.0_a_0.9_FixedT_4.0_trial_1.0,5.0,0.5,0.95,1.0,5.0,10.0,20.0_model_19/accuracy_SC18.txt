@@ -1,0 +1,3 @@
+超类: vehicles_1
+类别: [8, 13, 48, 58, 90]
+Best accuracy: 91.40%

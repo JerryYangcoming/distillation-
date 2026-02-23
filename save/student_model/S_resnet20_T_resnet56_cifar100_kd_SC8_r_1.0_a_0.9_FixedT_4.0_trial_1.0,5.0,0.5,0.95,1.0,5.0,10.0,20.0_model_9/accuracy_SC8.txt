@@ -1,0 +1,3 @@
+超类: large_carnivores
+类别: [3, 42, 43, 88, 97]
+Best accuracy: 85.76%

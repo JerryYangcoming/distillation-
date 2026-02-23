@@ -1,0 +1,3 @@
+超类: fruit_and_vegetables
+类别: [0, 51, 53, 57, 83]
+Best accuracy: 87.12%

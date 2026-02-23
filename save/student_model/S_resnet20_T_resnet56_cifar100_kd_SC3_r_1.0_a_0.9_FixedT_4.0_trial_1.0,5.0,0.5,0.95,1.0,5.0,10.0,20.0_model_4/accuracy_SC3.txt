@@ -1,0 +1,3 @@
+超类: food_containers
+类别: [9, 10, 16, 28, 61]
+Best accuracy: 82.36%

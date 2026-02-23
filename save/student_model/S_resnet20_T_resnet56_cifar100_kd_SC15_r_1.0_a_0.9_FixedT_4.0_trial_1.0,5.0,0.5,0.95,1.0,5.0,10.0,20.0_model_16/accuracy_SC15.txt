@@ -1,0 +1,3 @@
+超类: reptiles
+类别: [27, 29, 44, 78, 93]
+Best accuracy: 75.89%

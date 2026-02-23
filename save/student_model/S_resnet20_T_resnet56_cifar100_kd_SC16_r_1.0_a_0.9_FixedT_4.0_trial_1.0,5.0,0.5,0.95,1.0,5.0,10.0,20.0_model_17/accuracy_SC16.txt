@@ -1,0 +1,3 @@
+超类: small_mammals
+类别: [36, 50, 65, 74, 80]
+Best accuracy: 76.36%

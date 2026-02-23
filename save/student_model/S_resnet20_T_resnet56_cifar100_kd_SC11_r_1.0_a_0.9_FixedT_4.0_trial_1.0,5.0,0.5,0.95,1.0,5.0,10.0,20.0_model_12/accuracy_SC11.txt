@@ -1,0 +1,3 @@
+超类: large_omnivores_and_herbivores
+类别: [15, 19, 21, 31, 38]
+Best accuracy: 82.48%

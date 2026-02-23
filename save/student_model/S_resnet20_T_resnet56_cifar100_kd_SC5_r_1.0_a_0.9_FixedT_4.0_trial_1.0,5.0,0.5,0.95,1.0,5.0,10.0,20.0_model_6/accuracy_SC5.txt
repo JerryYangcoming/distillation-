@@ -1,0 +1,3 @@
+超类: household_electrical_devices
+类别: [22, 39, 40, 86, 87]
+Best accuracy: 85.17%

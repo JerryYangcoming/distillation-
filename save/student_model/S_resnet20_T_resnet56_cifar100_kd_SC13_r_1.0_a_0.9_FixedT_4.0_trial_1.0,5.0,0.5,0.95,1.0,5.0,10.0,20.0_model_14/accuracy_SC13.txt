@@ -1,0 +1,3 @@
+超类: non-insect_invertebrates
+类别: [26, 45, 77, 79, 99]
+Best accuracy: 81.64%

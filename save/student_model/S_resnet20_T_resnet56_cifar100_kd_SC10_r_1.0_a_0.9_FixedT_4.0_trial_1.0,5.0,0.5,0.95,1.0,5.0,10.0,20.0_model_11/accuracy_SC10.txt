@@ -1,0 +1,3 @@
+超类: large_natural_outdoor_scenes
+类别: [23, 33, 49, 60, 71]
+Best accuracy: 87.29%

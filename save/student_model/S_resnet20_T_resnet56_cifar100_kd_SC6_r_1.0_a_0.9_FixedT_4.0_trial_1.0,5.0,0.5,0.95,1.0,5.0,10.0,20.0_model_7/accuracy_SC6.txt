@@ -1,0 +1,3 @@
+超类: household_furniture
+类别: [5, 20, 25, 84, 94]
+Best accuracy: 82.32%

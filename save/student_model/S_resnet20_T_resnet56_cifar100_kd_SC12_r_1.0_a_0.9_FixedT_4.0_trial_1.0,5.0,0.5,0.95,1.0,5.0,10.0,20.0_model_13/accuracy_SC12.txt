@@ -1,0 +1,3 @@
+超类: medium_mammals
+类别: [34, 63, 64, 66, 75]
+Best accuracy: 86.03%

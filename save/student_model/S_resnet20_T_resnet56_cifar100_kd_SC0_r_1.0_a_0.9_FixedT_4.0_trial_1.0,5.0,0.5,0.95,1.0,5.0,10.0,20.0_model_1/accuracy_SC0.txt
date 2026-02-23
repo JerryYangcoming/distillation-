@@ -1,0 +1,3 @@
+超类: aquatic_mammals
+类别: [4, 30, 55, 72, 95]
+Best accuracy: 76.62%

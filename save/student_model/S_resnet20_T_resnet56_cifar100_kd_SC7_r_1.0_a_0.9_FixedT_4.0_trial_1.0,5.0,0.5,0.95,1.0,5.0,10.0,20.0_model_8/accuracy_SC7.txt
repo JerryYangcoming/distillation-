@@ -1,0 +1,3 @@
+超类: insects
+类别: [6, 7, 14, 18, 24]
+Best accuracy: 82.13%
